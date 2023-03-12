@@ -1,6 +1,7 @@
 # cs230
 
-Notes updated till quiz-1 syllabus to be held on Jan 27, 2023
+* Notes updated till quiz-1 syllabus to be held on Jan 27, 2023
+* Notes updated till quiz-2 syllabus to be held on March 13, 2023
 
 # Important : 
 
